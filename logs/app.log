@@ -1,0 +1,42 @@
+2025-12-14 20:04:22 [main] ERROR MatrixLogger - Ошибка чтения файла: "C:\Users\Admin\Desktop\11.txt" (Синтаксическая ошибка в имени файла, имени папки или метке тома)
+2025-12-14 20:07:36 [main] INFO  MatrixLogger - Матрицы успешно прочитаны из файлов.
+2025-12-14 20:07:39 [main] INFO  MatrixLogger - Выполнено сложение матриц.
+2025-12-14 20:07:39 [main] INFO  MatrixLogger - Результат выведен на экран.
+2025-12-14 20:09:23 [main] INFO  MatrixLogger - Матрицы успешно прочитаны из файлов.
+2025-12-14 20:09:32 [main] INFO  MatrixLogger - Выполнено умножение матриц.
+2025-12-14 20:09:33 [main] INFO  MatrixLogger - Результат выведен на экран.
+2025-12-14 20:10:01 [main] INFO  MatrixLogger - Матрицы успешно прочитаны из файлов.
+2025-12-14 20:10:03 [main] INFO  MatrixLogger - Рассчитаны определители матриц.
+2025-12-14 20:10:58 [main] INFO  MatrixLogger - Матрицы успешно прочитаны из файлов.
+2025-12-14 20:11:01 [main] ERROR MatrixLogger - Размеры матриц не совпадают для сложения
+2025-12-14 20:11:13 [main] INFO  MatrixLogger - Матрицы успешно прочитаны из файлов.
+2025-12-14 20:11:29 [main] ERROR MatrixLogger - Матрица должна быть квадратной для расчета определителя
+2025-12-14 20:12:03 [main] INFO  MatrixLogger - Матрицы успешно прочитаны из файлов.
+2025-12-14 20:12:05 [main] ERROR MatrixLogger - Количество столбцов первой матрицы не равно количеству строк второй
+2025-12-14 20:12:45 [main] INFO  MatrixLogger - Матрицы успешно прочитаны из файлов.
+2025-12-14 20:12:47 [main] INFO  MatrixLogger - Выполнено умножение матриц.
+2025-12-14 20:12:47 [main] INFO  MatrixLogger - Результат выведен на экран.
+2025-12-15 02:39:44 [main] INFO  MatrixLogger - Matrices have been successfully read from files.
+2025-12-15 02:39:47 [main] INFO  MatrixLogger - Matrix addition performed.
+2025-12-15 02:39:47 [main] INFO  MatrixLogger - Result was printed to console.
+2025-12-15 02:59:59 [main] ERROR MatrixLogger - Unexpected error: No line found
+2025-12-15 03:00:21 [main] ERROR MatrixLogger - Unexpected error: No line found
+2025-12-15 03:00:55 [main] ERROR MatrixLogger - Unexpected error: No line found
+2025-12-15 03:03:14 [main] ERROR MatrixLogger - Unexpected error: No line found
+2025-12-15 03:04:49 [main] ERROR MatrixLogger - Unexpected error: No line found
+2025-12-15 03:05:36 [main] ERROR MatrixLogger - Unexpected error: No line found
+2025-12-15 03:08:06 [main] ERROR MatrixLogger - Unexpected error: No line found
+2025-12-15 03:09:31 [main] ERROR MatrixLogger - Unexpected error: No line found
+2025-12-15 03:12:24 [main] ERROR MatrixLogger - Unexpected error: No line found
+2025-12-15 03:12:43 [main] ERROR MatrixLogger - Unexpected error: No line found
+2025-12-15 03:12:52 [main] ERROR MatrixLogger - Unexpected error: No line found
+2025-12-15 03:14:30 [main] INFO  MatrixLogger - Matrices have been successfully read from files.
+2025-12-15 03:14:32 [main] INFO  MatrixLogger - Matrix addition performed.
+2025-12-15 03:14:32 [main] INFO  MatrixLogger - Result was printed to console.
+2025-12-15 03:25:17 [main] ERROR MatrixLogger - Unexpected error: No line found
+2025-12-15 03:39:12 [main] INFO  MatrixLogger - Matrices have been successfully read from files.
+2025-12-15 03:39:14 [main] INFO  MatrixLogger - Matrix subtraction performed.
+2025-12-15 03:39:14 [main] INFO  MatrixLogger - Result was printed to console.
+2025-12-15 03:45:40 [main] ERROR MatrixLogger - Unexpected error: No line found
+2025-12-15 03:45:53 [main] ERROR MatrixLogger - Unexpected error: No line found
+2025-12-15 14:59:00 [main] ERROR MatrixLogger - Unexpected error: No line found
