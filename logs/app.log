@@ -40,3 +40,6 @@
 2025-12-15 03:45:40 [main] ERROR MatrixLogger - Unexpected error: No line found
 2025-12-15 03:45:53 [main] ERROR MatrixLogger - Unexpected error: No line found
 2025-12-15 14:59:00 [main] ERROR MatrixLogger - Unexpected error: No line found
+2025-12-15 18:49:11 [main] INFO  MatrixLogger - Matrices have been successfully read from files.
+2025-12-15 18:49:13 [main] INFO  MatrixLogger - Matrix addition performed.
+2025-12-15 18:49:13 [main] INFO  MatrixLogger - Result was printed to console.

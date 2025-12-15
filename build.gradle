@@ -45,3 +45,11 @@ shadowJar {
     archiveVersion.set('1.0-SNAPSHOT')
     archiveClassifier.set('all')
 }
+
+/**
+ * Важно: чтобы Gradle передавал ввод из консоли в приложение
+ * (работает для задачи run и любых JavaExec-задач).
+ */
+tasks.withType(JavaExec).configureEach {
+    standardInput = System.in
+}
